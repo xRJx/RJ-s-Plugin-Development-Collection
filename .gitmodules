@@ -38,3 +38,30 @@
 	path = plugins/hl2rp/combinechatter
 	url = https://github.com/xRJx/combinechatter
 	ignore = dirty
+[submodule "plugins/schema/campfire"]
+	path = plugins/schema/campfire
+	url = https://github.com/xRJx/campfire
+[submodule "plugins/schema/craftingmenu"]
+	path = plugins/schema/craftingmenu
+	url = https://github.com/xRJx/craftingmenu
+[submodule "plugins/schema/hidebusiness"]
+	path = plugins/schema/hidebusiness
+	url = https://github.com/xRJx/hidebusiness
+[submodule "plugins/schema/itemspawner"]
+	path = plugins/schema/itemspawner
+	url = https://github.com/xRJx/itemspawner
+[submodule "plugins/schema/itemspawnerplus"]
+	path = plugins/schema/itemspawnerplus
+	url = https://github.com/xRJx/itemspawnerplus
+[submodule "plugins/schema/junkmod"]
+	path = plugins/schema/junkmod
+	url = https://github.com/xRJx/junkmod
+[submodule "plugins/schema/notepad"]
+	path = plugins/schema/notepad
+	url = https://github.com/xRJx/notepad
+[submodule "plugins/schema/thermals"]
+	path = plugins/schema/thermals
+	url = https://github.com/xRJx/thermals
+[submodule "plugins/schema/vortibeam"]
+	path = plugins/schema/vortibeam
+	url = https://github.com/xRJx/vortibeam
