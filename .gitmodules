@@ -1,0 +1,3 @@
+[submodule "plugins/clockwork/hudclock"]
+	path = plugins/clockwork/hudclock
+	url = https://github.com/xRJx/hudclock
