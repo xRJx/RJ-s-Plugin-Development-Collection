@@ -1,3 +1,6 @@
 [submodule "plugins/clockwork/hudclock"]
 	path = plugins/clockwork/hudclock
 	url = https://github.com/xRJx/hudclock
+[submodule "plugins/clockwork/thirdperson"]
+	path = plugins/clockwork/thirdperson
+	url = https://github.com/xRJx/thirdperson
