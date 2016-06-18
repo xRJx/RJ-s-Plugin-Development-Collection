@@ -41,27 +41,36 @@
 [submodule "plugins/schema/campfire"]
 	path = plugins/schema/campfire
 	url = https://github.com/xRJx/campfire
+	ignore = dirty
 [submodule "plugins/schema/craftingmenu"]
 	path = plugins/schema/craftingmenu
 	url = https://github.com/xRJx/craftingmenu
+	ignore = dirty
 [submodule "plugins/schema/hidebusiness"]
 	path = plugins/schema/hidebusiness
 	url = https://github.com/xRJx/hidebusiness
+	ignore = dirty
 [submodule "plugins/schema/itemspawner"]
 	path = plugins/schema/itemspawner
 	url = https://github.com/xRJx/itemspawner
+	ignore = dirty
 [submodule "plugins/schema/itemspawnerplus"]
 	path = plugins/schema/itemspawnerplus
 	url = https://github.com/xRJx/itemspawnerplus
+	ignore = dirty
 [submodule "plugins/schema/junkmod"]
 	path = plugins/schema/junkmod
 	url = https://github.com/xRJx/junkmod
+	ignore = dirty
 [submodule "plugins/schema/notepad"]
 	path = plugins/schema/notepad
 	url = https://github.com/xRJx/notepad
+	ignore = dirty
 [submodule "plugins/schema/thermals"]
 	path = plugins/schema/thermals
 	url = https://github.com/xRJx/thermals
+	ignore = dirty
 [submodule "plugins/schema/vortibeam"]
 	path = plugins/schema/vortibeam
 	url = https://github.com/xRJx/vortibeam
+	ignore = dirty
