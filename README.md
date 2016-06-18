@@ -1,1 +1,1 @@
-# RJ-s-Plugin-Devlopment-Collection
+# RJ's Plugin/Devlopment Collection
