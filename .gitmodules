@@ -4,3 +4,27 @@
 [submodule "plugins/clockwork/thirdperson"]
 	path = plugins/clockwork/thirdperson
 	url = https://github.com/xRJx/thirdperson
+[submodule "plugins/hl2rp/vortigauntfactions"]
+	path = plugins/hl2rp/vortigauntfactions
+	url = https://github.com/xRJx/vortigauntfactions
+[submodule "plugins/hl2rp/uu-items"]
+	path = plugins/hl2rp/uu-items
+	url = https://github.com/xRJx/uu-items
+[submodule "plugins/hl2rp/unionlocks"]
+	path = plugins/hl2rp/unionlocks
+	url = https://github.com/xRJx/unionlock
+[submodule "plugins/hl2rp/unionlights"]
+	path = plugins/hl2rp/unionlights
+	url = https://github.com/xRJx/unionlight
+[submodule "plugins/hl2rp/overwatch"]
+	path = plugins/hl2rp/overwatch
+	url = https://github.com/xRJx/overwatch
+[submodule "plugins/hl2rp/newobjectives"]
+	path = plugins/hl2rp/newobjectives
+	url = https://github.com/xRJx/newobjectives
+[submodule "plugins/hl2rp/emplacementgun"]
+	path = plugins/hl2rp/emplacementgun
+	url = https://github.com/xRJx/emplacementgun
+[submodule "plugins/hl2rp/combinechatter"]
+	path = plugins/hl2rp/combinechatter
+	url = https://github.com/xRJx/combinechatter
