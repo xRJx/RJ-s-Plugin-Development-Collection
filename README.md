@@ -5,7 +5,7 @@ If you happen to need the latest module, clone this repository and run the follo
 git pull --recurse-submodules
 git submodule update --remote --merge
 
-OPTIONAL:
+OPTIONAL (this will add the changes to the online repository):
 git add .
-git commit -m "Updated module to latest"
+git commit -m "Updated module(s) to latest"
 git push
