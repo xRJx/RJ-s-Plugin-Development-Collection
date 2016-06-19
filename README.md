@@ -8,7 +8,9 @@ git pull --recurse-submodules
 git submodule update --remote --recursive --merge
 
 
+
 OPTIONAL (this will add the changes to the online repository):
+
 git add .
 
 git commit -m "Updated module(s) to latest"
