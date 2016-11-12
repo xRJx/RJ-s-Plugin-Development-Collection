@@ -1,3 +1,7 @@
+[submodule "plugins/clockwork/drawallscrollwheelweapons"]
+	path = plugins/clockwork/drawallscrollwheelweapons
+	url = https://github.com/xRJx/drawallscrollwheelweapons
+	ignore = dirty
 [submodule "plugins/clockwork/hudclock"]
 	path = plugins/clockwork/hudclock
 	url = https://github.com/xRJx/hudclock
