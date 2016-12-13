@@ -70,6 +70,10 @@
 	path = plugins/schema/notepad
 	url = https://github.com/xRJx/notepad
 	ignore = dirty
+[submodule "plugins/schema/plydisablefaction"]
+	path = plugins/schema/plydisablefaction
+	url = https://github.com/xRJx/plydisablefaction
+	ignore = dirty
 [submodule "plugins/schema/thermals"]
 	path = plugins/schema/thermals
 	url = https://github.com/xRJx/thermals
