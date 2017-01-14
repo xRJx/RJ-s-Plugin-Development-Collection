@@ -1,4 +1,4 @@
-# RJ's Plugin/Devlopment Collection
+# RJ's Plugin/Development Collection
 
 ### Updating Modules To Latest
 If you happen to need the latest module, clone this repository and run the following commands in Git Shell under the cloned repository:
