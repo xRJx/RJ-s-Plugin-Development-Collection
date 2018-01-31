@@ -1,3 +1,7 @@
+[submodule "plugins/clockwork/disablequiz"]
+	path = plugins/clockwork/disablequiz
+	url = https://github.com/xRJx/disablequiz
+	ignore = dirty
 [submodule "plugins/clockwork/drawallscrollwheelweapons"]
 	path = plugins/clockwork/drawallscrollwheelweapons
 	url = https://github.com/xRJx/drawallscrollwheelweapons
